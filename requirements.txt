@@ -1,0 +1,5 @@
+Flask
+fastapi
+flask_restful
+requests
+json
