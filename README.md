@@ -1,2 +1,3 @@
 # groupRanking
-was for a paid project for free cause very basic
+was for a paid project 
+open source for anyone too lazy to do it themselves
