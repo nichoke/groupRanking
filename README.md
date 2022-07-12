@@ -1,2 +1,2 @@
 # groupRanking
-was for a paid project giving away cause ez to make
+was for a paid project for free cause very basic
